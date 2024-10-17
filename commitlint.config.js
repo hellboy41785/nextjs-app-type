@@ -17,6 +17,7 @@ module.exports = {
         "fix",
         "perf",
         "change",
+        "update",
         "remove",
         "revert",
         "security",
